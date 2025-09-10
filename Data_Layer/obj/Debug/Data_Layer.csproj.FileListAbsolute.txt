@@ -1,0 +1,7 @@
+E:\Event_Management_System_KeBePo\bin\Debug\Data_Layer.dll
+E:\Event_Management_System_KeBePo\bin\Debug\Data_Layer.pdb
+E:\Event_Management_System_KeBePo\Data_Layer\obj\Debug\Data_Layer.csproj.AssemblyReference.cache
+E:\Event_Management_System_KeBePo\Data_Layer\obj\Debug\Data_Layer.csproj.CoreCompileInputs.cache
+E:\Event_Management_System_KeBePo\Data_Layer\obj\Debug\Data_Layer.csproj.Up2Date
+E:\Event_Management_System_KeBePo\Data_Layer\obj\Debug\Data_Layer.dll
+E:\Event_Management_System_KeBePo\Data_Layer\obj\Debug\Data_Layer.pdb

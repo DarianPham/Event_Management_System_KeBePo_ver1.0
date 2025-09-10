@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\L\u1EACP TR\u00CCNH CSDL\\Event_Management_System_KeBePo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C648E516-1783-4C89-A077-D6D40D6B2A37}|Presentation_Layer\\Presentation_Layer.csproj|e:\\l\u1EADp tr\u00ECnh csdl\\event_management_system_kebepo\\presentation_layer\\trang_chu_noi_bo\\frm_trangquanlydoitac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C648E516-1783-4C89-A077-D6D40D6B2A37}|Presentation_Layer\\Presentation_Layer.csproj|solutionrelative:presentation_layer\\trang_chu_noi_bo\\frm_trangquanlydoitac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C648E516-1783-4C89-A077-D6D40D6B2A37}|Presentation_Layer\\Presentation_Layer.csproj|e:\\l\u1EADp tr\u00ECnh csdl\\event_management_system_kebepo\\presentation_layer\\trang_chu_noi_bo\\frm_trangchunoibo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C648E516-1783-4C89-A077-D6D40D6B2A37}|Presentation_Layer\\Presentation_Layer.csproj|solutionrelative:presentation_layer\\trang_chu_noi_bo\\frm_trangchunoibo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C648E516-1783-4C89-A077-D6D40D6B2A37}|Presentation_Layer\\Presentation_Layer.csproj|e:\\l\u1EADp tr\u00ECnh csdl\\event_management_system_kebepo\\presentation_layer\\trang_chu_noi_bo\\frm_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C648E516-1783-4C89-A077-D6D40D6B2A37}|Presentation_Layer\\Presentation_Layer.csproj|solutionrelative:presentation_layer\\trang_chu_noi_bo\\frm_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C648E516-1783-4C89-A077-D6D40D6B2A37}|Presentation_Layer\\Presentation_Layer.csproj|e:\\l\u1EADp tr\u00ECnh csdl\\event_management_system_kebepo\\presentation_layer\\dang_nhap\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C648E516-1783-4C89-A077-D6D40D6B2A37}|Presentation_Layer\\Presentation_Layer.csproj|solutionrelative:presentation_layer\\dang_nhap\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C648E516-1783-4C89-A077-D6D40D6B2A37}|Presentation_Layer\\Presentation_Layer.csproj|e:\\l\u1EADp tr\u00ECnh csdl\\event_management_system_kebepo\\presentation_layer\\dang_nhap\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C648E516-1783-4C89-A077-D6D40D6B2A37}|Presentation_Layer\\Presentation_Layer.csproj|solutionrelative:presentation_layer\\dang_nhap\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C648E516-1783-4C89-A077-D6D40D6B2A37}|Presentation_Layer\\Presentation_Layer.csproj|e:\\l\u1EADp tr\u00ECnh csdl\\event_management_system_kebepo\\presentation_layer\\dang_nhap\\frm_dangnhap_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C648E516-1783-4C89-A077-D6D40D6B2A37}|Presentation_Layer\\Presentation_Layer.csproj|solutionrelative:presentation_layer\\dang_nhap\\frm_dangnhap_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C648E516-1783-4C89-A077-D6D40D6B2A37}|Presentation_Layer\\Presentation_Layer.csproj|e:\\l\u1EADp tr\u00ECnh csdl\\event_management_system_kebepo\\presentation_layer\\dang_nhap\\frm_demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C648E516-1783-4C89-A077-D6D40D6B2A37}|Presentation_Layer\\Presentation_Layer.csproj|solutionrelative:presentation_layer\\dang_nhap\\frm_demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C648E516-1783-4C89-A077-D6D40D6B2A37}|Presentation_Layer\\Presentation_Layer.csproj|e:\\l\u1EADp tr\u00ECnh csdl\\event_management_system_kebepo\\presentation_layer\\trang_chu_noi_bo\\frm_trangbaocaothongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C648E516-1783-4C89-A077-D6D40D6B2A37}|Presentation_Layer\\Presentation_Layer.csproj|solutionrelative:presentation_layer\\trang_chu_noi_bo\\frm_trangbaocaothongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C648E516-1783-4C89-A077-D6D40D6B2A37}|Presentation_Layer\\Presentation_Layer.csproj|E:\\L\u1EACP TR\u00CCNH CSDL\\Event_Management_System_KeBePo\\presentation_layer\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C648E516-1783-4C89-A077-D6D40D6B2A37}|Presentation_Layer\\Presentation_Layer.csproj|solutionrelative:presentation_layer\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_trangQuanLyDoiTac.cs [Design]",
+              "DocumentMoniker": "E:\\L\u1EACP TR\u00CCNH CSDL\\Event_Management_System_KeBePo\\Presentation_Layer\\TRANG_CHU_NOI_BO\\frm_trangQuanLyDoiTac.cs",
+              "RelativeDocumentMoniker": "Presentation_Layer\\TRANG_CHU_NOI_BO\\frm_trangQuanLyDoiTac.cs",
+              "ToolTip": "E:\\L\u1EACP TR\u00CCNH CSDL\\Event_Management_System_KeBePo\\Presentation_Layer\\TRANG_CHU_NOI_BO\\frm_trangQuanLyDoiTac.cs [Design]",
+              "RelativeToolTip": "Presentation_Layer\\TRANG_CHU_NOI_BO\\frm_trangQuanLyDoiTac.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T10:03:40.865Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "E:\\L\u1EACP TR\u00CCNH CSDL\\Event_Management_System_KeBePo\\Presentation_Layer\\DANG_NHAP\\DangNhap.cs",
+              "RelativeDocumentMoniker": "Presentation_Layer\\DANG_NHAP\\DangNhap.cs",
+              "ToolTip": "E:\\L\u1EACP TR\u00CCNH CSDL\\Event_Management_System_KeBePo\\Presentation_Layer\\DANG_NHAP\\DangNhap.cs",
+              "RelativeToolTip": "Presentation_Layer\\DANG_NHAP\\DangNhap.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAkwGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T09:16:09.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_trangChuNoiBo.cs [Design]",
+              "DocumentMoniker": "E:\\L\u1EACP TR\u00CCNH CSDL\\Event_Management_System_KeBePo\\Presentation_Layer\\TRANG_CHU_NOI_BO\\frm_trangChuNoiBo.cs",
+              "RelativeDocumentMoniker": "Presentation_Layer\\TRANG_CHU_NOI_BO\\frm_trangChuNoiBo.cs",
+              "ToolTip": "E:\\L\u1EACP TR\u00CCNH CSDL\\Event_Management_System_KeBePo\\Presentation_Layer\\TRANG_CHU_NOI_BO\\frm_trangChuNoiBo.cs [Design]",
+              "RelativeToolTip": "Presentation_Layer\\TRANG_CHU_NOI_BO\\frm_trangChuNoiBo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:54:46.413Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_trangChu.cs [Design]",
+              "DocumentMoniker": "E:\\L\u1EACP TR\u00CCNH CSDL\\Event_Management_System_KeBePo\\Presentation_Layer\\TRANG_CHU_NOI_BO\\frm_trangChu.cs",
+              "RelativeDocumentMoniker": "Presentation_Layer\\TRANG_CHU_NOI_BO\\frm_trangChu.cs",
+              "ToolTip": "E:\\L\u1EACP TR\u00CCNH CSDL\\Event_Management_System_KeBePo\\Presentation_Layer\\TRANG_CHU_NOI_BO\\frm_trangChu.cs [Design]",
+              "RelativeToolTip": "Presentation_Layer\\TRANG_CHU_NOI_BO\\frm_trangChu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:54:44.237Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_demo.cs [Design]",
+              "DocumentMoniker": "E:\\L\u1EACP TR\u00CCNH CSDL\\Event_Management_System_KeBePo\\Presentation_Layer\\DANG_NHAP\\frm_demo.cs",
+              "RelativeDocumentMoniker": "Presentation_Layer\\DANG_NHAP\\frm_demo.cs",
+              "ToolTip": "E:\\L\u1EACP TR\u00CCNH CSDL\\Event_Management_System_KeBePo\\Presentation_Layer\\DANG_NHAP\\frm_demo.cs [Design]",
+              "RelativeToolTip": "Presentation_Layer\\DANG_NHAP\\frm_demo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T07:14:17.13Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frm_dangNhap_khachHang.cs [Design]",
+              "DocumentMoniker": "E:\\L\u1EACP TR\u00CCNH CSDL\\Event_Management_System_KeBePo\\Presentation_Layer\\DANG_NHAP\\frm_dangNhap_khachHang.cs",
+              "RelativeDocumentMoniker": "Presentation_Layer\\DANG_NHAP\\frm_dangNhap_khachHang.cs",
+              "ToolTip": "E:\\L\u1EACP TR\u00CCNH CSDL\\Event_Management_System_KeBePo\\Presentation_Layer\\DANG_NHAP\\frm_dangNhap_khachHang.cs [Design]",
+              "RelativeToolTip": "Presentation_Layer\\DANG_NHAP\\frm_dangNhap_khachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T07:14:16.556Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "E:\\L\u1EACP TR\u00CCNH CSDL\\Event_Management_System_KeBePo\\Presentation_Layer\\DANG_NHAP\\DangNhap.cs",
+              "RelativeDocumentMoniker": "Presentation_Layer\\DANG_NHAP\\DangNhap.cs",
+              "ToolTip": "E:\\L\u1EACP TR\u00CCNH CSDL\\Event_Management_System_KeBePo\\Presentation_Layer\\DANG_NHAP\\DangNhap.cs [Design]",
+              "RelativeToolTip": "Presentation_Layer\\DANG_NHAP\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T07:14:06.989Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frm_trangBaoCaoThongKe.cs [Design]",
+              "DocumentMoniker": "E:\\L\u1EACP TR\u00CCNH CSDL\\Event_Management_System_KeBePo\\Presentation_Layer\\TRANG_CHU_NOI_BO\\frm_trangBaoCaoThongKe.cs",
+              "RelativeDocumentMoniker": "Presentation_Layer\\TRANG_CHU_NOI_BO\\frm_trangBaoCaoThongKe.cs",
+              "ToolTip": "E:\\L\u1EACP TR\u00CCNH CSDL\\Event_Management_System_KeBePo\\Presentation_Layer\\TRANG_CHU_NOI_BO\\frm_trangBaoCaoThongKe.cs [Design]",
+              "RelativeToolTip": "Presentation_Layer\\TRANG_CHU_NOI_BO\\frm_trangBaoCaoThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T16:20:52.922Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\L\u1EACP TR\u00CCNH CSDL\\Event_Management_System_KeBePo\\Presentation_Layer\\App.config",
+              "RelativeDocumentMoniker": "Presentation_Layer\\App.config",
+              "ToolTip": "E:\\L\u1EACP TR\u00CCNH CSDL\\Event_Management_System_KeBePo\\Presentation_Layer\\App.config",
+              "RelativeToolTip": "Presentation_Layer\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-23T16:20:27.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

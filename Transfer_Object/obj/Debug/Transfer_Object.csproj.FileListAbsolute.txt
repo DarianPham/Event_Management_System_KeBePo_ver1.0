@@ -1,0 +1,7 @@
+E:\Event_Management_System_KeBePo\bin\Debug\Transfer_Object.dll
+E:\Event_Management_System_KeBePo\bin\Debug\Transfer_Object.pdb
+E:\Event_Management_System_KeBePo\Transfer_Object\obj\Debug\Transfer_Object.csproj.AssemblyReference.cache
+E:\Event_Management_System_KeBePo\Transfer_Object\obj\Debug\Transfer_Object.csproj.CoreCompileInputs.cache
+E:\Event_Management_System_KeBePo\Transfer_Object\obj\Debug\Transfer_Object.dll
+E:\Event_Management_System_KeBePo\Transfer_Object\obj\Debug\Transfer_Object.pdb
+E:\Event_Management_System_KeBePo\Transfer_Object\obj\Debug\Transfer.93FAF576.Up2Date
